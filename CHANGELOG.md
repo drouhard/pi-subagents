@@ -5,6 +5,9 @@
 ### Changed
 - Replace collapsed async workflow role rollups with a compact lane view while keeping full details available when expanded (#1827). Thanks [@nicobailon](https://github.com/nicobailon).
 
+### Fixed
+- Accept calendar/platform `claude --version` output during Claude Code adapter preflight while retaining required launch-flag validation. Thanks [@drouhard](https://github.com/drouhard).
+
 ## [0.64.0] - 2026-09-02
 
 ### Highlights
